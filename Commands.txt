@@ -1,0 +1,2 @@
+git init
+git add filename or . (add the current folder to the staging area)
