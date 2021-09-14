@@ -1,2 +1,10 @@
 git init
 git add filename or . (add the current folder to the staging area)
+git commit -m "message"
+git log (brief info)
+git show commit_id show a particular commit with details)
+git config --global user.name "myusername"
+git config --global user.email "myemail"
+git config --list (show the config values)
+git diff filename (see what are the changes that were applied to the file from the last Commit)
+git diff --stage filename
