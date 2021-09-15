@@ -13,6 +13,6 @@ git reset HEAD~1 (uncommit the last commit (remove the last changes))
 git revet commit_id (uncommit the specific commit (remove the specific commit changes))
 =====
 git remote add origin repo_link (make this repo the origin)
-or 
 git remote set-url origin repo_link (make this repo the origin)
 git push -u origin main
+git pull origin branchname --allow-unrelated-histories
