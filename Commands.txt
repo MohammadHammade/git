@@ -16,3 +16,10 @@ git remote add origin repo_link (make this repo the origin)
 git remote set-url origin repo_link (make this repo the origin)
 git push -u origin main
 git pull origin branchname --allow-unrelated-histories
+=====
+git clone repo
+=====
+git branch (see my branches)
+git branch branchname (create new one)
+git checkout branchname (switch to another branch)
+git switch   branchname (switch to another branch)
